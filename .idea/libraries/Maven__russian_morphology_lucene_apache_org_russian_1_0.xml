@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: russian_morphology.lucene.apache.org:russian:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/russian/1.0/russian-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/russian/1.0/russian-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/russian/1.0/russian-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: russian_morphology.lucene.apache.org:morph:8.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/morph/8.0/morph-8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/morph/8.0/morph-8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/russian_morphology/lucene/apache/org/morph/8.0/morph-8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
